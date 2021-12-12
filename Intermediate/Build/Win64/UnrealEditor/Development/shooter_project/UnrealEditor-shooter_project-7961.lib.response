@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-shooter_project-7961.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\shooter_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\CharacterAnimInstance.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\MainCharacter.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\shooter_project.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\shooter_projectGameModeBase.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\CharacterAnimInstance.gen.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\MainCharacter.gen.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\shooter_project.init.gen.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\shooter_projectGameModeBase.gen.cpp.obj"
+"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\Default.rc2.res"
+/OUT:"C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\UnrealEditor-shooter_project-7961.lib"
+/INCLUDE:IMPLEMENT_MODULE_shooter_project

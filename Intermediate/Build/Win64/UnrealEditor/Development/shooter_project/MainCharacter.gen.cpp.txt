@@ -1,0 +1,11 @@
+C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\Definitions.shooter_project.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mitro\Documents\Unreal Projects\shooter_project\Source\shooter_project/Public/MainCharacter.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Character.generated.h
+C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Inc\shooter_project\MainCharacter.generated.h

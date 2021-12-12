@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "shooter_project",
+			"Path": "C:\\Users\\mitro\\Documents\\Unreal Projects\\shooter_project\\Source\\shooter_project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "shooter_projectEditor",
+			"Path": "C:\\Users\\mitro\\Documents\\Unreal Projects\\shooter_project\\Source\\shooter_projectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

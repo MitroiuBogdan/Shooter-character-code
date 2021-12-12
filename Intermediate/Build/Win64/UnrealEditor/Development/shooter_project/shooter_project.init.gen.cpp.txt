@@ -1,0 +1,3 @@
+C:\Users\mitro\Documents\Unreal Projects\shooter_project\Intermediate\Build\Win64\UnrealEditor\Development\shooter_project\Definitions.shooter_project.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
