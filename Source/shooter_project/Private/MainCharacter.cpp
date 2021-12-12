@@ -18,6 +18,7 @@ AMainCharacter::AMainCharacter() :
 	baseLookupRate(45.f),
 	bAiming(false),
 	cameraZoomedFOV(40.f),
+	cameraCurrentFOV(0.f),
 	zoomInterpSpeed(20.f)
 	
 {
@@ -55,6 +56,7 @@ void AMainCharacter::BeginPlay()
 
 	if (followingCamera) {
 		cameraDefaultFOV = getFollowingCamera()->FieldOfView;
+		cameraCurrentFOV = cameraCurrentFOV;
 	}
 }
 
@@ -201,6 +203,13 @@ void AMainCharacter::isAimingButtonReleased()
 void AMainCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	if (bAiming) {
+		cameraCurrentFOV=FMath::FIn
+	}
+	else {
+
+	}
 
 }
 
